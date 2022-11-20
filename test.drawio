@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2022-11-20T15:34:24.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2sdLBraHxr1J8TMhIRan" version="19.0.0" type="github">
+  <diagram id="Pucfj6uwaooB2bD4LbyZ" name="Page-1">
+    <mxGraphModel dx="895" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_YHGkD200AHmtgt3G8EN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;gradientColor=#ffffff;gradientDirection=south;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="366" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_YHGkD200AHmtgt3G8EN-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_YHGkD200AHmtgt3G8EN-3" target="_YHGkD200AHmtgt3G8EN-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="180" />
+              <mxPoint x="300" y="150" />
+              <mxPoint x="370" y="140" />
+              <mxPoint x="330" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VilPthl9gcPeQt1q4zPV-1" value="Object" style="html=1;gradientColor=#ffffff;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VilPthl9gcPeQt1q4zPV-2" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;gradientColor=#ffffff;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VilPthl9gcPeQt1q4zPV-3" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;gradientColor=#ffffff;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VilPthl9gcPeQt1q4zPV-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;gradientColor=#ffffff;gradientDirection=south;" vertex="1" parent="VilPthl9gcPeQt1q4zPV-3">
+          <mxGeometry x="45" y="90" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VilPthl9gcPeQt1q4zPV-7" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="VilPthl9gcPeQt1q4zPV-3" target="VilPthl9gcPeQt1q4zPV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="160" as="sourcePoint" />
+            <mxPoint x="-35" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VilPthl9gcPeQt1q4zPV-11" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="VilPthl9gcPeQt1q4zPV-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
